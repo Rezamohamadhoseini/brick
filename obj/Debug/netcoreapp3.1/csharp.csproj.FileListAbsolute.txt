@@ -1,0 +1,13 @@
+/home/ccapcoin/Desktop/csharp/bin/Debug/netcoreapp3.1/csharp
+/home/ccapcoin/Desktop/csharp/bin/Debug/netcoreapp3.1/csharp.deps.json
+/home/ccapcoin/Desktop/csharp/bin/Debug/netcoreapp3.1/csharp.runtimeconfig.json
+/home/ccapcoin/Desktop/csharp/bin/Debug/netcoreapp3.1/csharp.runtimeconfig.dev.json
+/home/ccapcoin/Desktop/csharp/bin/Debug/netcoreapp3.1/csharp.dll
+/home/ccapcoin/Desktop/csharp/bin/Debug/netcoreapp3.1/csharp.pdb
+/home/ccapcoin/Desktop/csharp/obj/Debug/netcoreapp3.1/csharp.csprojAssemblyReference.cache
+/home/ccapcoin/Desktop/csharp/obj/Debug/netcoreapp3.1/csharp.AssemblyInfoInputs.cache
+/home/ccapcoin/Desktop/csharp/obj/Debug/netcoreapp3.1/csharp.AssemblyInfo.cs
+/home/ccapcoin/Desktop/csharp/obj/Debug/netcoreapp3.1/csharp.csproj.CoreCompileInputs.cache
+/home/ccapcoin/Desktop/csharp/obj/Debug/netcoreapp3.1/csharp.dll
+/home/ccapcoin/Desktop/csharp/obj/Debug/netcoreapp3.1/csharp.pdb
+/home/ccapcoin/Desktop/csharp/obj/Debug/netcoreapp3.1/csharp.genruntimeconfig.cache

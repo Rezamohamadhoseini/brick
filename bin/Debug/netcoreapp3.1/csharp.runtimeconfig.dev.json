@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/ccapcoin/.dotnet/store/|arch|/|tfm|",
+      "/home/ccapcoin/.nuget/packages"
+    ]
+  }
+}
